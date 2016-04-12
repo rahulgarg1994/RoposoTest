@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Roposo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_story_cards">StoryActivity</string>
+    <string name="title_activity_story_details">DetailsActivity</string>
+</resources>
